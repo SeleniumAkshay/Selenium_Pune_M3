@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-16T09:44:31 IST" name="Surefire suite" finished-at="2024-04-16T09:45:16 IST" duration-ms="45058">
+    <groups>
+    </groups>
+    <test started-at="2024-04-16T09:44:31 IST" name="Surefire test" finished-at="2024-04-16T09:45:16 IST" duration-ms="45058">
+      <class name="com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test">
+        <test-method is-config="true" signature="bc()[pri:0, instance:com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test@6cd28fa7]" started-at="2024-04-16T09:44:53 IST" name="bc" finished-at="2024-04-16T09:44:56 IST" duration-ms="3514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test@6cd28fa7]" started-at="2024-04-16T09:44:56 IST" name="bm" finished-at="2024-04-16T09:45:04 IST" duration-ms="7424" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="deleteAddress()[pri:0, instance:com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test@6cd28fa7]" started-at="2024-04-16T09:45:04 IST" name="deleteAddress" finished-at="2024-04-16T09:45:12 IST" duration-ms="8755" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+        <test-method is-config="true" signature="am()[pri:0, instance:com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test@6cd28fa7]" started-at="2024-04-16T09:45:12 IST" name="am" finished-at="2024-04-16T09:45:13 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test@6cd28fa7]" started-at="2024-04-16T09:45:13 IST" name="ac" finished-at="2024-04-16T09:45:16 IST" duration-ms="3336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+      </class> <!-- com.shoppersStack_testScripts.Verify_user_is_able_to_delete_address_Test -->
+      <class name="com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test">
+        <test-method is-config="true" signature="bs()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:31 IST" name="bs" finished-at="2024-04-16T09:44:31 IST" duration-ms="21" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bs -->
+        <test-method is-config="true" signature="bt()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:31 IST" name="bt" finished-at="2024-04-16T09:44:31 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bt -->
+        <test-method is-config="true" signature="bc()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:31 IST" name="bc" finished-at="2024-04-16T09:44:35 IST" duration-ms="4088" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bc -->
+        <test-method is-config="true" signature="bm()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:35 IST" name="bm" finished-at="2024-04-16T09:44:43 IST" duration-ms="7518" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method signature="addAddress()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:43 IST" name="addAddress" finished-at="2024-04-16T09:44:49 IST" duration-ms="5846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method is-config="true" signature="am()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:49 IST" name="am" finished-at="2024-04-16T09:44:49 IST" duration-ms="531" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- am -->
+        <test-method is-config="true" signature="ac()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:44:49 IST" name="ac" finished-at="2024-04-16T09:44:53 IST" duration-ms="3348" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ac -->
+        <test-method is-config="true" signature="at()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:45:16 IST" name="at" finished-at="2024-04-16T09:45:16 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- at -->
+        <test-method is-config="true" signature="as()[pri:0, instance:com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test@3f6b0be5]" started-at="2024-04-16T09:45:16 IST" name="as" finished-at="2024-04-16T09:45:16 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- as -->
+      </class> <!-- com.shoppersStack_testScripts.Verify_User_is_able_to_add_address_Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>

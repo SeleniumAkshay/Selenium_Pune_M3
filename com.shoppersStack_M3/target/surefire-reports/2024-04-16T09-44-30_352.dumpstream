@@ -1,0 +1,5 @@
+# Created at 2024-04-16T09:44:30.686
+Boot Manifest-JAR contains absolute paths in classpath 'E:\New\Selenium_Pune\com.shoppersStack_M3\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
