@@ -16,6 +16,7 @@ public class Verify_User_is_able_to_add_address_Test extends BaseTest{
 	@Test
 	public void addAddress() throws IOException {
 		
+		
 		homePage.getAccountBtn().click();
 		homePage.getMyProfileBtn().click();
 //		test.log(Status.INFO, "In my profile page");
