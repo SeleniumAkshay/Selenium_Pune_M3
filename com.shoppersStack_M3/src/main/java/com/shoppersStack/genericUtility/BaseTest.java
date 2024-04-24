@@ -51,13 +51,14 @@ public class BaseTest {
 	
 	@BeforeClass
 	public void bc() throws IOException {
-		String url = file.readPropertyData("url");
+//		String url = file.readPropertyData("url");
+//		
+//		String browser = file.readPropertyData("browser");
 		
-		String browser = file.readPropertyData("browser");
 		
-//		String url = System.getProperty("url");
+		String url = System.getProperty("url");
 		
-//		String browser = System.getProperty("browser");
+		String browser = System.getProperty("browser");
 		
 		System.out.println("BeforeClass");
 		
